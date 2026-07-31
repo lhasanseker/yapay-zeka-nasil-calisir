@@ -24,6 +24,15 @@
   <a href="./Yapay_Zeka_Nasil_Calisir_Arastirma_Notlari.md">Detaylı Notlar</a>
 </p>
 
+<p align="center">
+  <a href="https://KULLANICI_ADIN.github.io/REPO_ADIN/">
+    <img src="https://img.shields.io/badge/▶_CANLI_İNTERAKTİF_DEMO-E0A94D?style=for-the-badge&logoColor=white" alt="Canlı interaktif demo">
+  </a>
+</p>
+
+> [!TIP]
+> Bu README statik bir özet. `index.html` dosyası ise notlardaki her fikri (öğrenme döngüsü, piksel/convolution, token tahmini, difüzyon, güvenlik riskleri) canlı, sürüklenebilir ve tıklanabilir hale getiriyor. GitHub → **Settings → Pages → Branch: main /(root)** yolundan yayınlayıp yukarıdaki linki kendi adresinle (`KULLANICI_ADIN.github.io/REPO_ADIN`) güncelle.
+
 ---
 
 > [!IMPORTANT]
