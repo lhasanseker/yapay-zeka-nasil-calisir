@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lhasanseker.github.io/REPO_ADIN/">
+  <a href="https://lhasanseker.github.io/yapay-zeka-nasil-calisir/">
     <img src="https://img.shields.io/badge/▶_CANLI_İNTERAKTİF_DEMO-E0A94D?style=for-the-badge&logoColor=white" alt="Canlı interaktif demo">
   </a>
 </p>
